@@ -1,4 +1,4 @@
-#Basic Calculator
+# Basic Calculator
 A basic calculator made in C to do basic arithmetic operations like:
 1. Addition
 2. Subtraction
